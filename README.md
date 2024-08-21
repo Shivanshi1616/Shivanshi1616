@@ -1,3 +1,4 @@
+![logo](https://github.com/Shivanshi1616/Shivanshi1616/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivanshi Gupta</h1>
 <h3 align="center">A passionate Data Analyst with a strong foundation in data-driven decision-making. My expertise spans across Basic/Advanced Excel, Power BI, and SQL, which I use to turn raw data into actionable insights. I am committed to delivering impactful results in every project.</h3>
 
