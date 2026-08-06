@@ -33,6 +33,5 @@ Skilled in **Agentic AI, Generative AI, Machine Learning, Deep Learning, NLP, Py
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivanshi1616&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shivanshi1616&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
