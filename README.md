@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Building%20Intelligent%20Solutions%20with%20AI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
-</div>
-
 # 💫 About Me:
 ## 👋 Hi, I'm Shivanshi Gupta
 
