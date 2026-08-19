@@ -7,7 +7,8 @@ Skilled in **Agentic AI, Generative AI, Machine Learning, Deep Learning, NLP, Py
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshigupta708@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshigupta708@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshigupta10/)
 
 ## 📊 Profile Analytics:
 
